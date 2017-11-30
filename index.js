@@ -13,8 +13,8 @@ function overwriteBestCustomer() {
   bestCustomer = 'maybe bob'
 }
 
-var leastFavoriteCustomer = 'Donald Trump'
+const leastFavoriteCustomer = 'Donald Trump'
 
 function changeLeastFavoriteCustomer() {
-  var leastFavoriteCustomer = 'Donald J Trump'
+  leastFavoriteCustomer = 'Donald J Trump'
 }
