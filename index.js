@@ -18,3 +18,8 @@ const leastFavoriteCustomer = 'Donald Trump'
 function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = 'Donald J Trump'
 }
+
+function attemptTwoFavoriteCustomers() {
+  const favoriteCustomer = 'bobby'
+  favoriteCustomer = 'Barrack'
+}
